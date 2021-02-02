@@ -8,3 +8,4 @@ public class Homework01 {
         System.out.println("Вот последняя правда открытая мной");
         System.out.println("                            О.Хайам");
     }
+}
