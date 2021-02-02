@@ -1,3 +1,4 @@
+
 public class Homework01 {
     public static void main(String[] args) {
         System.out.println("                Рубаи");
@@ -7,4 +8,3 @@ public class Homework01 {
         System.out.println("Вот последняя правда открытая мной");
         System.out.println("                            О.Хайам");
     }
-}
