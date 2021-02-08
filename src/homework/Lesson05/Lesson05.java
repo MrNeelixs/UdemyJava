@@ -1,4 +1,4 @@
-public class Homework05 {
+public class Lesson05 {
     static class Student {
         int id;
         String name;
