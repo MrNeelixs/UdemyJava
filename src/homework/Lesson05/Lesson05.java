@@ -1,3 +1,7 @@
+/*
+    Создание объектов Понятие конструктор
+ */
+
 public class Lesson05 {
     static class Student {
         int id;
