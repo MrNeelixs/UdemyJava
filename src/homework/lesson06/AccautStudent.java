@@ -31,3 +31,14 @@ public class AccautStudent {
 
 
     }
+
+    public static class AccauntTest {
+        public static void main(String[] args) {
+            Student st1 = new Student();
+            Student st2 = new Student(1, "Valera", "Petrov", 1991);
+            System.out.println(st2.id+" "+st2.year+" "+st2.name+" "+st2.name2);
+            Student st3 = new Student(1,"Genadi","Hromov",1992,5.3,4.7,6.8);
+            System.out.println(st3.id+" "+st3.year+" "+st3.name+" "+st3.name2+" "+st3.math+" "+st3.language+" "+st3.econom);
+        }
+    }
+}
